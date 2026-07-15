@@ -1,5 +1,4 @@
-# 🔴 SOLİDARK V2 — Profesyonel Steam Yönetim Aracı
-
+# 🔴 SOLİDARK V2 — Profesyonel Steam TOOLS
 **SOLİDARK V2**, Steam kütüphanenizi en verimli şekilde yönetmeniz ve oyun deneyiminizi optimize etmeniz için tasarlanmış, güçlü ve kullanımı kolay bir yardımcı araçtır.
 
 ---
@@ -30,6 +29,6 @@
 
 ---
 
-**Versiyon:** 5.0  
+**Versiyon:** 2.0  
 **Geliştirici:** SOLİDARK Team  
 **Destek:** Uygulama içerisindeki iletişim butonlarını kullanabilirsiniz.
