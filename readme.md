@@ -32,3 +32,5 @@
 **Versiyon:** 2.0  
 **Geliştirici:** SOLİDARK Team  
 **Destek:** Uygulama içerisindeki iletişim butonlarını kullanabilirsiniz.
+
+NOT: .JSON DOSYASI SADECE OYUN LİSTESİDİR İNDİRMENİZE GEREK YOKTUR İSTERSEN İNDİR :)
